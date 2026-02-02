@@ -1,31 +1,69 @@
-👋 Hi, I’m Anish Ghimire (@TechExplorerAnish)
+# Hello Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm **Anish Ghimire** (@TechExplorerAnish) — a Computer Engineering student, full-stack web developer, machine learning enthusiast, and robotics/IOT hobbyist. Welcome to my GitHub profile! 🚀
 
-🎓 I’m a Computer Engineering student who enjoys learning by building real-world projects and exploring how software can solve practical problems.
+---
 
-💻 I primarily work in **full-stack web development**, with hands-on experience in the **MERN stack** and **Next.js**, focusing on writing clean, maintainable, and scalable code.
+## 👨‍💻 About Me
+- 🎓 Computer Engineering Student  
+- 💻 Full-stack Web Developer (MERN, Next.js)  
+- 🧠 Currently learning **Machine Learning** and data-driven systems  
+- 🤖 Robotics & IoT enthusiast: built **Home Automation** system & **Line Follower Robot**  
+- 🐧 **Linux/Unix user** — love working close to the system  
+- 🌱 Believe in learning by building real projects  
 
-🧠 Alongside web development, I’m currently studying and strengthening my skills in **Machine Learning**, with a growing interest in data-driven and intelligent applications.
+---
 
-🛠️ Technologies & Tools I work with:
-- **Web:** React, Next.js, Node.js, Express, MongoDB  
-- **Programming:** C, C++, Python, JavaScript  
-- **Tools & Platforms:** Git, GitHub, Docker, Vercel  
-- **Systems:** Linux / Unix (daily user)
+## 🛠️ Tech Stack
 
+### 💬 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3179c7?style=flat-square&logo=typescript&logoColor=black)
 
-🌱 Currently focused on:
-- Improving full-stack and backend architecture skills  
-- Strengthening Machine Learning fundamentals  
-- Writing production-ready and efficient code  
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 
-🤝 I’m open to collaborating on:
-- Web and full-stack applications  
-- Machine learning or data-related projects  
-- Hackathons and open-source contributions  
+---
 
-📫 How to reach me:
-- Email: **anishghimire178@gmail.com**
-- Facebook: **www.facebook.com/anish.ghimire.5201**
-- Portfolio: **https://anishghimire.vercel.app/**
+## 🚀 What I'm Working On
+- 🌐 Full-stack web applications using **MERN & Next.js**
+- 🧠 Strengthening **Machine Learning fundamentals**
+- 🤖 Robotics & IoT projects: **Home Automation**, **Line Follower Robot**
+- ⚙️ Improving backend design and deployment workflows
+- 🧪 Experimenting with Docker and Linux-based setups
 
-⚡ Fun fact: I use Linux daily and prefer understanding how things work under the hood rather than just using them.
+---
+
+## 🤝 Open To Collaborate On
+- Web & full-stack projects  
+- Machine learning / Python projects  
+- IoT & Robotics  
+- Hackathons & open-source contributions  
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: **anishghimire178@gmail.com**  
+- 🌐 Portfolio: **https://anishghimire.vercel.app/**  
+- 💼 LinkedIn: **[Anish Ghimire](https://www.linkedin.com/in/anish-ghimire-18bb85292/)**  
+- 📘 Facebook: **www.facebook.com/anish.ghimire.5201**
+
+---
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechExplorerAnish&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p> -->
